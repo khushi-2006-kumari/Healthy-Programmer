@@ -1,4 +1,5 @@
-Healthy Programmer is a simple desktop reminder app designed to help programmers maintain a healthy routine while working long hours. It reminds you to drink water, take eye breaks, and do physical activity to stay healthy and productive.
+Healthy Programmer:
+It is a simple desktop reminder app designed to help programmers maintain a healthy routine while working long hours. It reminds you to drink water, take eye breaks, and do physical activity to stay healthy and productive.
 
 Working hours: 9a.m. to 5 p.m.
 
